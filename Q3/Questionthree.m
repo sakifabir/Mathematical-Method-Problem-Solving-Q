@@ -1,0 +1,9 @@
+a=3;
+b=5;
+c=-3;
+x=b+a;
+y=c*a;
+z=x/y;
+sum=b+z;
+sum1=a/sum;
+Result=b-sum1

@@ -1,0 +1,9 @@
+a=2;
+b=3;
+c=-4;
+d=-3;
+x=b+c;
+y=c+d;
+sum=x*y;
+sum1=sum*a;
+Result=sum1*a
